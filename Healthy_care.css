@@ -1,0 +1,23 @@
+/* Header CSS */
+.icon_logo img{
+    width: 35%;
+    height: 50%;
+}
+.main_img{
+    position: relative;
+    text-align: center;
+}
+.Doctor_img{
+    width: 98%;
+    height: 90%;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 0px 0px 50px 50px;
+}
+.icon_logo{
+    position: absolute;
+    top: 10;
+    right: 35%;
+    left: 35%;
+    color: #036DB9;
+}
